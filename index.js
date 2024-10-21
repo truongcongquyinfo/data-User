@@ -8,6 +8,12 @@ server.use(middlewares);
 server.use((req, res, next) => {
   if (req.method === 'POST') {
     res.status(403).send('POST method is not allowed')
+  }else if (req.method === 'PATCH') {
+    res.status(403).send('POST method is not allowed')
+  }else if (req.method === 'DELETE') {
+    res.status(403).send('POST method is not allowed')
+  }else if (req.method === 'OPTIONS') {
+    res.status(403).send('POST method is not allowed')
   } else {
     next()
   }
