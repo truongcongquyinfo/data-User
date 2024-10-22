@@ -1,20 +1,62 @@
-{
-  "player" : [
-    {
-      "username" : "xQtFT",
-      "date" : "2010-12-10"
-    },
-    {
-      "username" : "CTER_0",
-      "date" : "2011-12-10"
-    },
-    {
-      "username" : "CTER_1",
-      "date" : "2012-12-10"
-    },
-    {
-      "username" : "CTER_2",
-      "date" : "2013-12-10"
-    },
-  ]
-}
+[
+  {
+    "id": "b5c220a8-f5f7-4f8f-b1eb-0a645d8f62e3",
+    "name": "Evelyn Murphy",
+    "email": "evelyn.murphy@example.com",
+    "address": "2135 Joseph Valley"
+  },
+  {
+    "id": "8c84e27f-6012-4114-a3b1-f4dc2d9e0b74",
+    "name": "Derek Smith",
+    "email": "derek.smith@example.com",
+    "address": "7941 Anderson Tunnel"
+  },
+  {
+    "id": "38fc9f89-69ee-4c87-8708-f3b2c7b3f4bc",
+    "name": "Sophia Lee",
+    "email": "sophia.lee@example.com",
+    "address": "9420 Patricia Pines"
+  },
+  {
+    "id": "92e32de5-80e1-4f47-b37c-dc9f9b01a1d7",
+    "name": "Jack Johnson",
+    "email": "jack.johnson@example.com",
+    "address": "2180 Becker Forks"
+  },
+  {
+    "id": "3df9e705-f70f-4e06-bfe2-9fc105d6933d",
+    "name": "Emily Taylor",
+    "email": "emily.taylor@example.com",
+    "address": "2581 Jennifer Isle"
+  },
+  {
+    "id": "a20b6c96-4a4e-4d39-b733-4deff4343b3c",
+    "name": "Brian Wilson",
+    "email": "brian.wilson@example.com",
+    "address": "9841 West Plaza"
+  },
+  {
+    "id": "3bc87090-bf47-49d1-82f0-5d4b09e0e216",
+    "name": "Olivia Brown",
+    "email": "olivia.brown@example.com",
+    "address": "54168 Frederick Circles"
+  },
+  {
+    "id": "d32a48be-5140-4ed3-9bc7-57372e1c53bc",
+    "name": "James Harris",
+    "email": "james.harris@example.com",
+    "address": "4271 Doris Lane"
+  },
+  {
+    "id": "b1f5a8a0-cdee-4e58-85c5-15d98a2d97e5",
+    "name": "Ava Robinson",
+    "email": "ava.robinson@example.com",
+    "address": "67546 Todd Brooks"
+  },
+  {
+    "id": "ec1dc824-69c2-4110-8bc6-e634d56de0d3",
+    "name": "Michael Lewis",
+    "email": "michael.lewis@example.com",
+    "address": "6906 Duran Vista"
+  }
+]
